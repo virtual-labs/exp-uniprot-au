@@ -1,4 +1,3 @@
-### Aim of the experiment
 
 •	To understand how to retrieve protein sequence data from Uniprot database using R programming.
 
