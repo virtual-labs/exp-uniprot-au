@@ -2,8 +2,10 @@
 2.	Install the SeqinR package.
 3.	To load “SeqinR” R package follow > library("seqinr") 
 4.	Follow the code in the command window: 
-  retrieveseqs<- function(seqnames,acnucdb) #custom function for retrieving multiple sequence from Uniprot
-{
+
+        retrieveseqs<- function(seqnames,acnucdb) #custom function for retrieving multiple sequence from Uniprot
+    
+        {
 myseqs<- list()
   # Make a list to store the sequences
 require("seqinr") 
