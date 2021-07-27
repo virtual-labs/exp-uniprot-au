@@ -15,7 +15,8 @@ In a broader sense, Uniprot has four main tools;
 <center><img src="images/uniprot1.png" title="" /></center>
  Fig.1. Overview of Uniprot Sequence Database
  
- &ensp;
+ &nbsp;
+ &nbsp;
  
  **Retrieving a list of sequences from UniProt using R**
  
