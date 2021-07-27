@@ -4,7 +4,7 @@
 
 "answers":
 {
-"a":"len(sequence_name) ",
+"a":"len(sequence_name)",
 "b":"length(sequence_name)",
 "c":" length{sequence_name}",
 "d":"seqlen(sequence_name)"
