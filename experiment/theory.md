@@ -12,14 +12,17 @@ In a broader sense, Uniprot has four main tools;
 
 &nbsp;
 
+
 <center><img src="images/uniprot1.png" title="" /></center>
  Fig.1. Overview of Uniprot Sequence Database
  
  &nbsp;
+ 
  &nbsp;
  
  **Retrieving a list of sequences from UniProt using R**
  
 &nbsp;
+
 Retrieving a list of sequences from UniProt using R was designed for easy retrieval of protein sequences, clustering and visualizing of protein data from UniProtKB) using R language. Such packages helps to retrieve proteomics data with limited time and allows the biological science researchers for summarizing the protein information from UniProtKB in a readable excel file or by graphical illustration. Using the R package, it was easy to generate graphical visualization of gene ontology, location of specific chromosome, phylogenic analysis and other physiochemical properties of the specific protein. Like NCBI sequence Uniprot also has RefSeq but the manually annoted information quality in UniProt is greater than that in RefSeq. Accesion numbers were assigned to individual protein sequences in Uniprot database. Another method to retrieve a UniProt protein sequence is by the use of the SeqinR package to query the ACNU sub-database “swissprot”, which contains protein sequences from UniProt.  Use the query () function from SeqinR to query multiple protein sequence
 
