@@ -1,1 +1,1 @@
-Retrieving a list of sequences from UniProt
+## Retrieving a list of sequences from UniProt
