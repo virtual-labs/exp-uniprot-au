@@ -1,4 +1,4 @@
-**Procedure to run simulator**
+**Procedure to work simulator**
  
 1. To retrieve sequence information of a list of proteins, user can enter the known accession number of proteins of interest in the search box. List the accession numbers of proteins with a space in between the accession numbers.
 
@@ -64,7 +64,4 @@
 5.	Click Execute Button for output.    
 &nbsp;
 
-**Procedure to work simulator**
-1.	Default FASTA files of multiple protein sequence were provided in R platform. 
-2.	User can choose their required sequence and can load the sequence for Uniprot R analysis.
-3.	From the graphical output interpret the detailed information of the selected sequences in terms of similarities, phylogeny analysis and so on. 
+
