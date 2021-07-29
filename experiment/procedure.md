@@ -12,11 +12,10 @@
 3.	Provide the sample accession numbers and click on Run button to execute simulation.
 
 
-
-    <center><img src="images/1.png" title="" /></center>
+   <center><img src="images/2.png" title="" /></center>
 
  &nbsp;
-
+ 
 4.	The result page displays information of list of proteins related to the query search. 
 
 5.	User can try to run the simulator with other accession numbers Q14533, Q9BYR3, P26371, Q07627, Q3TTY5. 
