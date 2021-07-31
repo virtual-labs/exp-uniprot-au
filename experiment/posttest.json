@@ -4,7 +4,7 @@
 
 "answers":
 {
-"a":"len(sequence_name) ",
+"a":"len(sequence_name)",
 "b":"length(sequence_name)",
 "c":" length{sequence_name}",
 "d":"seqlen(sequence_name)"
@@ -33,14 +33,14 @@
 "answers":
 {
 "a":"listbank ( )",
-"b":" choosebank ( )",
-"c":" proteinbank ( )",
-"d":" proteinlist ( )"
+"b":"choosebank ( )",
+"c":"proteinbank ( )",
+"d":"proteinlist ( )"
 },
 
 "correctAnswer":"a"
 },
-
+{
 "question":
 "4. UniProt has a set of complete proteome information of organisms with  completely sequenced genomes:",
 
@@ -65,7 +65,7 @@
 },
 
 "correctAnswer":"d"
-},
+}
 
 
 ]
